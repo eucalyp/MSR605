@@ -2,10 +2,10 @@ MSR605 Toolbox
 ======
 **MSR605 Toolbox** is a small piece of code which help using the magnetic card reader/writer MSR605.
 
-##Description
+## Description
 The MSR605 is a magnetic card reader/writer you can acquire for 100$. It's a great machine to work and play with magnetic cards. When I started using it, I noticed a lack in the available software. The manufacturer gives a demo software running only on windows and the others open-source projects are pretty old and incomplete. So I give it a fresh new start in Python. Feel welcome to fork or do some pull requests
 
-##Roadmap
+## Roadmap
 - [x] Reset
 - [] Read ISO
 - [] Write ISO
@@ -39,7 +39,7 @@ The MSR605 is a magnetic card reader/writer you can acquire for 100$. It's a gre
 ### Others
 * [PL2303](http://prolificusa.com/pl-2303hx-drivers/) The PL2303 is a Serial-USB Controller built inside the MSR605. You need the PL2303 drivers on your machine to communicate with the MSR605. The drivers are built-in the Linux kernel. 
 
-##Similar projects
+## Similar projects
 This project is inspired from others open-source projects.
 * [Penturalabs/MSR605 - c++](https://github.com/PenturaLabs/MSR605/)
 * [ioerror/libmsr - c](https://github.com/ioerror/libmsr)
