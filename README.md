@@ -7,10 +7,10 @@ The MSR605 is a magnetic card reader/writer you can acquire for 100$. It's a gre
 
 ## Roadmap
 - [x] Reset
-- [] Read ISO
-- [] Write ISO
-- [] Read raw
-- [] Write raw
+- [ ] Read ISO
+- [ ] Write ISO
+- [ ] Read raw
+- [ ] Write raw
 - [x] Test communication
 - [x] Test ram
 - [x] Test sensor
@@ -18,8 +18,8 @@ The MSR605 is a magnetic card reader/writer you can acquire for 100$. It's a gre
 - [x] Turn on red led
 - [x] Turn on green led
 - [x] Turn on yellow led
-- [] Set leading zero
-- [] Check leading zero
+- [ ] Set leading zero
+- [ ] Check leading zero
 - [x] Erase card
 - [x] Set BPI
 - [x] Set BPC
