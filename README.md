@@ -33,8 +33,8 @@ The MSR605 is a magnetic card reader/writer you can acquire for 100$. It's a gre
 
 ### ISO7811
 * [ISO7811](https://www.magtek.com/content/documentationfiles/d99800004.pdf)- Easy and graphic documentation for the ISO7811.
-* [ISO7811 - medium](http://arrowinks.com/digital-ink-industry-insights/magnetic-encoding-standards/) - A bit more detailed documentation for 7811. Still easy to understand.
-* [ISO7811 - hard](http://d1.amobbs.com/bbs_upload782111/files_32/ourdev_576472.pdf) - Complete documentation of ISO7811. Harder to understand.
+* [ISO7811](http://arrowinks.com/digital-ink-industry-insights/magnetic-encoding-standards/) - A bit more detailed documentation for 7811. Still easy to understand.
+* [ISO7811](http://d1.amobbs.com/bbs_upload782111/files_32/ourdev_576472.pdf) - Complete documentation of ISO7811. Harder to understand.
 
 ### PL2303
 * [PL2303](http://prolificusa.com/pl-2303hx-drivers/) The PL2303 is a Serial-USB Controller built inside the MSR605. You need the PL2303 drivers on your machine to communicate with the MSR605. The drivers are built-in the Linux kernel. 
