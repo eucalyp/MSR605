@@ -36,8 +36,12 @@ The MSR605 is a magnetic card reader/writer you can acquire for 100$. It's a gre
 * [ISO7811 - medium](http://arrowinks.com/digital-ink-industry-insights/magnetic-encoding-standards/)
 * [ISO7811 - hard](http://d1.amobbs.com/bbs_upload782111/files_32/ourdev_576472.pdf)
 
-### Others
+### PL2303
 * [PL2303](http://prolificusa.com/pl-2303hx-drivers/) The PL2303 is a Serial-USB Controller built inside the MSR605. You need the PL2303 drivers on your machine to communicate with the MSR605. The drivers are built-in the Linux kernel. 
+
+### Python
+* [pySerial](http://pythonhosted.org/pyserial/) - Module to help with communication on serial port.
+* [argparse](https://docs.python.org/3/library/argparse.html) - Easy module to have a friendly comme-line interface.
 
 ## Similar projects
 This project is inspired from others open-source projects.
